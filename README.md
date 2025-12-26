@@ -173,10 +173,10 @@ Key Features:
 ## 💼 Professional Background
 While operating as **Themadhood Codes**, I bring experience from roles including:
 
-**Programming & Systems Developer – Industrial Automation Manufacturer 6/18-present**  
+**Programming & Systems Developer – Industrial Automation Manufacturer – 6/18-present**  
 Developing and refining software used in automated machinery, improving reliability, supporting legacy systems, and helping engineer modern control solutions.
 
-**Independent Developer – MN 4-H 9/24-2/25**  
+**Independent Developer – MN 4-H – 9/24-2/25**  
 Lead developer for a custom judging/feedback platform and technical coordinator for major multi-week events, managing infrastructure, devices, software updates, and live operational support.
 
 
