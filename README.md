@@ -9,6 +9,16 @@ My work blends practical engineering with large-system architecture — from ind
 
 ---
 
+## versioning
+I use cumulative versioning and this is how I handle versions in each script.
+# 0.0.0 or Major.minor.patch 
+- **major: something will break up stream comes with a temporary retrofit.
+- **minor: new functions or additions.
+- **patch: small fixes and documentation.
+- **special: very rare but in some instances it used before forking or custom release.
+
+---
+
 ## 🔧 What I Do
 - **Python Engineering** – automation, backend systems, APIs, toolchains
 - **Learn a pro** – automation, backend systems, APIs, toolchains
