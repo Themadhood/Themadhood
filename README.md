@@ -11,7 +11,7 @@ My work blends practical engineering with large-system architecture — from ind
 
 ## Versioning
 I use cumulative versioning, this is how I handle versions in each script.
-### 0.0.0 or Major.minor.patch 
+### 0.0.0 is Major. minor. patch
 - major: something will break up stream. comes with a temporary retrofit.
 - minor: new functions or additions.
 - patch: small fixes and documentation.
